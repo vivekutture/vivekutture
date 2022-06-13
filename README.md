@@ -11,17 +11,17 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20views&color=0e75b6&style=flat" alt="vivekutture" /></p>
 
-## ABOUT
+## 👨‍💻 ABOUT
 
 
 
-- 🌱 I’m currently learning **Flutter & Android**
+- 😎 I’m currently learning **Flutter & Android**
 
 - 💬 Ask me about **JAVA, C++, Linux, C and Python**
 
-- 📫 How to reach me **uttureviveks@gmail.com**
+- 📧 How to reach me **uttureviveks@gmail.com**
 
-- ⚡ Fun fact **Though I said I'm MYSTERIOUS 🕵️‍♂️, but you know my NAME 😅😂**
+- ⚡ Fun Fact 😁 **Though I said I'm MYSTERIOUS 🕵️‍♂️, but you know my NAME 😅😂**
 
 
 ## LANGUAGES & TOOLS
