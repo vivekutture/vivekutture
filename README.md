@@ -8,9 +8,12 @@
 <a href="https://www.github.com/vivekutture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vivekutture" height="30" width="40" /></a>
 </p>
 
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20views&color=0e75b6&style=flat" alt="vivekutture" /></p>
+
 ## ABOUT
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20views&color=0e75b6&style=flat" alt="vivekutture" /></p>
+
 
 - 🌱 I’m currently learning **Flutter & Android**
 
