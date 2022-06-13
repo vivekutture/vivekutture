@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **uttureviveks@gmail.com**
 
-- ⚡ Fun fact **Though I said I'm MYSTERIOUS 🕵️‍♂️, but already you know my NAME 😅😂**
+- ⚡ Fun fact **Though I said I'm MYSTERIOUS 🕵️‍♂️, but you know my NAME 😅😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
