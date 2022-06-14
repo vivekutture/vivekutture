@@ -6,7 +6,7 @@
 <a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="48" width="48" /></a>
 <a href="https://www.hackerrank.com/vivekutture"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekutture" height="30" width="40" /></a>
 <a href="https://www.github.com/vivekutture"><img align="center" src=icons/github.svg alt="vivekutture" height="48" width="48"/></a>
-<a href="https://www.youtube.com/channel/UCxubtwKAM9nCj1JDY0W_CXw"><img align="center" src=icons/youtube.svg alt="vivekutture" height="48" width="48"/></a>
+<a href="https://www.youtube.com/channel/UCxubtwKAM9nCj1JDY0W_CXw" target="none"><img align="center" src=icons/youtube.svg alt="vivekutture" height="48" width="48"/></a>
 </p>
 
 <br>
