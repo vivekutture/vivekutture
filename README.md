@@ -36,7 +36,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"> <img src=icons/java.svg alt="java" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux"> <img src=icons/linux.svg alt="linux" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"> <img src=icons/mysql.svg alt="mysql" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src=icons/postgresql.svg alt="postgresql" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src=icons/postgresql.svg alt="postgresql" /> </a> &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src=icons/python.svg alt="python" width="40" height="40"/> </a> &nbsp;
 </p>
 
