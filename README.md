@@ -13,6 +13,7 @@
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20Views&color=0e75b6&style=flat" alt="vivekutture" height="35" width="175"/></p>
+<br>
 <p>
  
 ## 🤵 ABOUT
@@ -34,6 +35,7 @@
 <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="30" width="30"/></a>&nbsp; &nbsp;<a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="30" width="30" /></a>&nbsp;&nbsp;
  <a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="30" width="30" /></a>&nbsp;
 </p>
+<br>
 
 ## 🚀 LANGUAGES & TOOLS
 <p align="left"> 
@@ -48,9 +50,11 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src=icons/postgresql.svg alt="postgresql" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src=icons/python.svg alt="python" width="40" height="40"/> </a> &nbsp;
 </p>
+<br>
 
 ## 🤝 SUPPORT
 <p><a href="https://www.buymeacoffee.com/vivekutture"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vivekutture" /></a></p><br><br>
+<br>
 
 ## 🔥 MY GITHUB STATS
 <p align="center"> 
