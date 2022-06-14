@@ -13,21 +13,27 @@
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20Views&color=0e75b6&style=flat" alt="vivekutture" height="35" width="175"/></p>
-
+<p>
+ 
 ## 👨‍💻 ABOUT
 
-
+<img align="right" height="170" width="220" alt="Coding" src=images/coding.gif>
 
 - 😎 I’m currently learning **Flutter & Android**
 
 - 💬 Ask me about **JAVA, C++, Linux, C and Python**
 
 - ⚡ Fun Fact 😁 **Though I said I'm MYSTERIOUS 🕵️‍♂️, but you know my NAME 😅😂**
+ </p>
+
+<br>
+<p>
 
 ## 📧 GET IN TOUCH
 
-&nbsp; <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="30" width="30"/></a>&nbsp; &nbsp;<a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="30" width="30"/></a>&nbsp; &nbsp;<a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="30" width="30" /></a>&nbsp;&nbsp;
  <a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="30" width="30" /></a>&nbsp;
+</p>
 
 ## 🚀 LANGUAGES & TOOLS
 <p align="left"> 
