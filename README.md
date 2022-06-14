@@ -37,7 +37,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=vivekutture&&show_icons=true&count_private=true&theme=radical"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekutture&show_icons=true&count_private=true&theme=radical"/>
 </p>
-<br>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekutture&show_icons=true&locale=en&layout=compact&theme=radical"/></p>
   
