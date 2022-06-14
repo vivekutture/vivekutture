@@ -34,7 +34,7 @@
 
 ## 🔥 MY GITHUB STATS
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekutture&&show_icons=true&count_private=true&theme=radical"/> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekutture&&show_icons=true&count_private=true&theme=radical"/> &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekutture&show_icons=true&count_private=true&theme=radical"/>
 </p>
 <p align="center">
