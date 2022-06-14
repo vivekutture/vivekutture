@@ -2,11 +2,11 @@
 <h3 align="center">A MYSTERIOUS PASSIONATE Developer</h3><br>
 
 <p align="center">
-<a href="https://linkedin.com/in/vivekutture"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="48" width="48" /></a>
-<a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="48" width="48" /></a>
-<a href="https://www.hackerrank.com/vivekutture"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekutture" height="30" width="40" /></a>
-<a href="https://www.github.com/vivekutture"><img align="center" src=icons/github.svg alt="vivekutture" height="48" width="48"/></a>
-<a href="https://www.youtube.com/channel/UCxubtwKAM9nCj1JDY0W_CXw" target="none"><img align="center" src=icons/youtube.svg alt="vivekutture" height="48" width="48"/></a>
+<a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="40" width="40" /></a>
+<a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/vivekutture"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekutture" height="40" width="40" /></a>
+<a href="https://www.github.com/vivekutture"><img align="center" src=icons/github.svg alt="vivekutture" height="40" width="40"/></a>
+<a href="https://www.youtube.com/channel/UCxubtwKAM9nCj1JDY0W_CXw" target="none"><img align="center" src=icons/youtube.svg alt="vivekutture" height="40" width="40"/></a>
 </p>
 
 <br>
