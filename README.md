@@ -11,7 +11,7 @@
 </p>
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20Views&color=0e75b6&style=flat" alt="vivekutture" height="40" width="200"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20Views&color=0e75b6&style=flat" alt="vivekutture" height="35" width="175"/></p>
 
 ## 👨‍💻 ABOUT
 
