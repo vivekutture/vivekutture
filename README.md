@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Utture</h1>
-<h3 align="center">A MYSTERIOUS PASSIONATE Developer</h3><br>
+<h3 align="center">A MYSTERIOUS & PASSIONATE Developer</h3><br>
 
 <p align="center">
 <a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="40" width="40" /></a>
