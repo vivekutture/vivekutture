@@ -27,7 +27,7 @@
 - ⚡ Fun Fact 😁 **Though I said I'm MYSTERIOUS 🕵️‍♂️, but you know my NAME 😅😂**
  </p>
 
-<br><br><br>
+<br>
 <p>
 
 ## 📧 GET IN TOUCH
