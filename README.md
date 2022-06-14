@@ -2,12 +2,12 @@
 <h3 align="center">A MYSTERIOUS & PASSIONATE Developer</h3><br>
 
 <p align="center">
-<a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="40" width="40" /></a>
-<a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/vivekutture"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekutture" height="40" width="40" /></a>
-<a href="https://www.github.com/vivekutture"><img align="center" src=icons/github.svg alt="vivekutture" height="40" width="40"/></a>
-<a href="https://www.youtube.com/channel/UCxubtwKAM9nCj1JDY0W_CXw" target="none"><img align="center" src=icons/youtube.svg alt="vivekutture" height="40" width="40"/></a>
-<a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,%20From%20Github"><img align="center" src=icons/gmail.svg height="40" width="40"/></a>
+<a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="40" width="40" /></a>&nbsp;
+<a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="40" width="40" /></a>&nbsp;
+<a href="https://www.hackerrank.com/vivekutture"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekutture" height="40" width="40" /></a>&nbsp;
+<a href="https://www.github.com/vivekutture"><img align="center" src=icons/github.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCxubtwKAM9nCj1JDY0W_CXw" target="none"><img align="center" src=icons/youtube.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
+<a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="40" width="40"/></a>&nbsp;
 </p>
 
 <br>
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **JAVA, C++, Linux, C and Python**
 
-- 📧 How to reach me **uttureviveks@gmail.com**
+- 📧 How to reach me : &nbsp; <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="30" width="30"/></a>&nbsp;
 
 - ⚡ Fun Fact 😁 **Though I said I'm MYSTERIOUS 🕵️‍♂️, but you know my NAME 😅😂**
 
