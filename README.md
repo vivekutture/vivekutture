@@ -28,7 +28,7 @@
 &nbsp; <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="30" width="30"/></a>&nbsp; &nbsp;<a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="30" width="30" /></a>&nbsp;&nbsp;
  <a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="30" width="30" /></a>&nbsp;
 
-## LANGUAGES & TOOLS
+## 🚀 LANGUAGES & TOOLS
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android"> <img src=icons/android.svg alt="android" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"> <img src=icons/c.svg alt="c" width="40" height="40"/> </a> &nbsp;
@@ -42,7 +42,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src=icons/python.svg alt="python" width="40" height="40"/> </a> &nbsp;
 </p>
 
-## SUPPORT
+## 🤝 SUPPORT
 <p><a href="https://www.buymeacoffee.com/vivekutture"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vivekutture" /></a></p><br><br>
 
 ## 🔥 MY GITHUB STATS
