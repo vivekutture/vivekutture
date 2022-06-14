@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="40" width="40" /></a>&nbsp;
 <a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="40" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/vivekutture"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekutture" height="40" width="40" /></a>&nbsp;
+<a href="https://www.hackerrank.com/vivekutture"><img align="center" src=icons/hackerrank.svg alt="vivekutture" height="60" width="60" /></a>&nbsp;
 <a href="https://www.github.com/vivekutture"><img align="center" src=icons/github.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCxubtwKAM9nCj1JDY0W_CXw" target="none"><img align="center" src=icons/youtube.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
 <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="40" width="40"/></a>&nbsp;
