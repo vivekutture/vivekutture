@@ -11,14 +11,14 @@
 <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="40" width="40"/></a>&nbsp;
 </p>
 
-<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20Views&color=0e75b6&style=flat" alt="vivekutture" height="35" width="175"/></p>
-<br>
+<p align="center">
+<img height="200" width="250" alt="Coding" src=images/coding.gif>
+ </p>
+
 <p>
  
 ## 🤵 ABOUT
-
-<img align="right" height="200" width="250" alt="Coding" src=images/coding.gif>
 
 - 😎 I’m currently learning **Flutter & Android**
 
