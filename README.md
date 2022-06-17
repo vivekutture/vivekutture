@@ -1,21 +1,20 @@
 [![MasterHead](images/Banner.jpeg)](https://vivekutture.github.io)
 <h1 align="center">Hi 👋, I'm Vivek Utture</h1>
-<h3 align="center">A 🕵️‍♂️ MYSTERIOUS & PASSIONATE Developer 🧑‍💻 </h3><br>
+<h3 align="center">A 🕵️‍♂️ MYSTERIOUS & PASSIONATE Developer 🧑‍💻 </h3>
+
+<h3 align="center">👇 Visit At 👇</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="40" width="40" /></a>&nbsp;
 <a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="40" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/vivekutture"><img align="center" src=icons/hackerrank.svg alt="vivekutture" height="60" width="60" /></a>&nbsp;
+<a href="https://www.hackerrank.com/vivekutture"><img align="center" src=icons/hackerrank.svg alt="vivekutture" height="60" width="50" /></a>&nbsp;
 <a href="https://www.github.com/vivekutture"><img align="center" src=icons/github.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCxubtwKAM9nCj1JDY0W_CXw" target="none"><img align="center" src=icons/youtube.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
 <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="40" width="40"/></a>&nbsp;
 </p>
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20Views&color=0e75b6&style=flat" alt="vivekutture" height="35" width="175"/></p>
-<p align="center">
-<img height="200" width="250" alt="Coding" src=images/coding.gif>
- </p>
-
+<br>
 <p>
  
 ## 🤵 ABOUT
