@@ -1,5 +1,5 @@
 [![MasterHead](images/Banner.jpeg)](https://vivekutture.github.io)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30" width="30">, I'm Vivek Utture</h1>
+<h1 align="center">Hi <img align="center" src=images/wave.gif height="40" width="40">, I'm Vivek Utture</h1>
 <h3 align="center">A 🕵️‍♂️ MYSTERIOUS & PASSIONATE Developer 🧑‍💻 </h3>
 
 <h3 align="center">👇 Visit At 👇</h3>
