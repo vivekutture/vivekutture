@@ -1,7 +1,7 @@
 [![MasterHead](images/Banner.jpeg)](https://vivekutture.github.io)
 <h1 align="center">Hi <img align="center" src=images/wave.gif height="40" width="40">, I'm Vivek Utture</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&color=00BBFF&center=true&vCenter=true&width=1000&lines=Passionate+Developer;YouTuber;Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&color=00BBFF&center=true&vCenter=true&width=1000&lines=Developer;Coder;YouTuber;Engineer)](https://git.io/typing-svg)
 
 
 <h3 align="center">👇 Visit At 👇</h3>
