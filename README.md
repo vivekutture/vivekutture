@@ -1,6 +1,8 @@
 [![MasterHead](images/Banner.jpeg)](https://vivekutture.github.io)
 <h1 align="center">Hi <img align="center" src=images/wave.gif height="40" width="40">, I'm Vivek Utture</h1>
-<h3 align="center">A 🕵️‍♂️ MYSTERIOUS & PASSIONATE Developer 🧑‍💻 </h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&color=00BBFF&center=true&vCenter=true&width=1000&lines=Passionate+Developer;YouTuber;Engineer)](https://git.io/typing-svg)
+
 
 <h3 align="center">👇 Visit At 👇</h3>
 
@@ -8,6 +10,7 @@
 <a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="40" width="40" /></a>&nbsp;
 <a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="40" width="40" /></a>&nbsp;
 <a href="https://www.hackerrank.com/vivekutture"><img align="center" src=icons/hackerrank.svg alt="vivekutture" height="60" width="50" /></a>&nbsp;
+ <a href="https://www.leetcode.com/vivekutture"><img align="center" src=icons/leetcode.png alt="vivekutture" height="60" width="50" /></a>&nbsp;
 <a href="https://www.github.com/vivekutture"><img align="center" src=icons/github.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
 <a href="https://www.youtube.com/@mysterioustechs" target="none"><img align="center" src=icons/youtube.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
 <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="40" width="40"/></a>&nbsp;
